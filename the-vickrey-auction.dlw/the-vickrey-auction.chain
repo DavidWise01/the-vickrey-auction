@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1800
+slug  : the-vickrey-auction
+seal  : 480c2b3b6bf9090c6bba2ad0d4ab3dab63dc11ee51557b410b7b52a421475387
+prev  : 17c2e111333fdad67538455a769e70822305d1ad9c9fb60df6a0b4c41b444ed9
+link  : 1af59a9a50791b69069a789ebddae537e3e43ea352bda35bceeb4e06039634ee
+head  : aa8b583f52b96d42579db20197261e6bed812e445cac24661fdcafae730412a1
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
